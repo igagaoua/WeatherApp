@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="open_weather_maps_app_id">b0c3d978ca00e07b8f8e0b4769dfd099</string>
+</resources>
